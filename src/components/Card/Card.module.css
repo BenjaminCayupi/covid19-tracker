@@ -1,0 +1,57 @@
+.content{
+   padding-top: 25px!important;
+   justify-content: space-around;
+   padding-bottom: 40px;
+}
+.content_loading{
+   padding: 100px 32px;
+}
+.card{
+   padding: 15px 15px!important;
+}
+
+.title{
+   display: flex;
+   justify-content: space-between;
+}
+.title h5{
+   margin-bottom: 15px!important;
+}
+.subtitle{
+   margin-top: 0px!important;
+   margin-bottom: 10px!important;
+}
+.date{
+   font-weight: 500;
+   color: #a0aec0;
+}
+
+.icon_confirmed{
+   color: #3d5afe;
+   margin-bottom: 15px!important;
+}
+.icon_recovered{
+   color: #64ffda;
+}
+.icon_deaths{
+   color: #f06292;
+}
+
+.number{
+   margin-top: 10px;
+}
+
+.confirmed{
+   border-left: 7px solid#3d5afe;
+   margin-bottom: 15px;
+}
+
+.recovered{
+   border-left: 7px solid #64ffda;
+   margin-bottom: 15px;
+}
+
+.deaths{
+   border-left: 7px solid#f06292;
+   margin-bottom: 15px;
+}
